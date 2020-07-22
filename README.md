@@ -1,5 +1,9 @@
 # DesignPatterns
 
+
+===========I'm still working in more examples to upload here!=============
+
+
 You can find more details about each Design Pattern here: https://en.wikipedia.org/wiki/Software_design_pattern. If you click in the specific Pattern, you can get more information! 
 :)
 
