@@ -36,3 +36,16 @@ CREATIONAL PATTERN
               - Product
     d.  The creation of subclasses becomes more flexible
     e.  Negative Point. Perhaps it's needed to create so many subclasses of the class Creator only to create a ConcreteProduct
+    
+    
+    
+    
+BEHAVIORAL PATTERN    
+    
+  1.	Strategy
+  
+    a.	Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+    b.	Classes and objects within this pattern are (diagram: https://en.wikipedia.org/wiki/Strategy_pattern#/media/File:Strategy_Pattern_in_UML.png):
+              - Strategy 
+              - ConcreteStrategy 
+              - Context  
