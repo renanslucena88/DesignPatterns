@@ -21,7 +21,7 @@ CREATIONAL PATTERN
     c.	Create realtime object factories and let the object decides the type dynamically
     d.	The Factory Method has an interface that creates the object but the subclasses will decide which class will be instantiated
     
-  2.	Abstract Method
+  3.	Abstract Method
   
     a.	Very similar than Factory Method
     b.	Create an instance of many families of classes
