@@ -1,5 +1,9 @@
 # DesignPatterns
 
+
+===========I'm still working in more examples to upload here!=============
+
+
 You can find more details about each Design Pattern here: https://en.wikipedia.org/wiki/Software_design_pattern. If you click in the specific Pattern, you can get more information! 
 :)
 
@@ -21,7 +25,7 @@ CREATIONAL PATTERN
     c.	Create realtime object factories and let the object decides the type dynamically
     d.	The Factory Method has an interface that creates the object but the subclasses will decide which class will be instantiated
     
-  2.	Abstract Method
+  3.	Abstract Method
   
     a.	Very similar than Factory Method
     b.	Create an instance of many families of classes
@@ -32,3 +36,24 @@ CREATIONAL PATTERN
               - Product
     d.  The creation of subclasses becomes more flexible
     e.  Negative Point. Perhaps it's needed to create so many subclasses of the class Creator only to create a ConcreteProduct
+    
+
+
+
+STRUCTURAL PATTERN    
+    
+  1.	
+  
+  
+  
+    
+    
+BEHAVIORAL PATTERN    
+    
+  1.	Strategy
+  
+    a.	Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+    b.	Classes and objects within this pattern are (diagram: https://en.wikipedia.org/wiki/Strategy_pattern#/media/File:Strategy_Pattern_in_UML.png):
+              - Strategy 
+              - ConcreteStrategy 
+              - Context  
