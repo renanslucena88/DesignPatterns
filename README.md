@@ -37,7 +37,15 @@ CREATIONAL PATTERN
     d.  The creation of subclasses becomes more flexible
     e.  Negative Point. Perhaps it's needed to create so many subclasses of the class Creator only to create a ConcreteProduct
     
+
+
+
+STRUCTURAL PATTERN    
     
+  1.	
+  
+  
+  
     
     
 BEHAVIORAL PATTERN    
