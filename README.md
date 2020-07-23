@@ -42,10 +42,16 @@ CREATIONAL PATTERN
 
 STRUCTURAL PATTERN    
     
-  1.	
+  1.	Proxy
+  
+    a.	Proxy Provide a surrogate or placeholder for another object to control access to it.
+    b.	Classes and objects within this pattern are:
+              - Proxy 
+              - Subject 
+              - RealSubject  
   
   
-  
+  ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Proxy_pattern_diagram.svg/439px-Proxy_pattern_diagram.svg.png)
     
     
 BEHAVIORAL PATTERN    
@@ -53,7 +59,9 @@ BEHAVIORAL PATTERN
   1.	Strategy
   
     a.	Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
-    b.	Classes and objects within this pattern are (diagram: https://en.wikipedia.org/wiki/Strategy_pattern#/media/File:Strategy_Pattern_in_UML.png):
+    b.	Classes and objects within this pattern are:
               - Strategy 
               - ConcreteStrategy 
               - Context  
+              
+   ![alt text](https://upload.wikimedia.org/wikipedia/commons/3/39/Strategy_Pattern_in_UML.png)          
