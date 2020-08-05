@@ -54,6 +54,13 @@ STRUCTURAL PATTERN
   ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Proxy_pattern_diagram.svg/439px-Proxy_pattern_diagram.svg.png)
     
     
+  2. Facace
+  
+    a.  Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
+    
+  ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Facade_Design_Pattern_Class_Diagram_UML.svg/452px-Facade_Design_Pattern_Class_Diagram_UML.svg.png)    
+    
+    
 BEHAVIORAL PATTERN    
     
   1.	Strategy
